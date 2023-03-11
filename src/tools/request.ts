@@ -210,7 +210,7 @@ export async function postRequstImages(params: TypePostRequestParams){
     return response.json();
   })
   .then(data => {
-    console.log("data",data);
+
   })
   .catch(error => {
     console.error('There was a problem with the fetch operation:', error);
@@ -271,7 +271,7 @@ export async function putRequestRestaurant(params: TypePostRequestParams) {
 
   formData.append('description', body.description)
   if (body.image) {
-    console.log("send2", body.image)
+
     formData.append('image', body.image)
   }
   formData.append('phone_number', body.phone_number)
