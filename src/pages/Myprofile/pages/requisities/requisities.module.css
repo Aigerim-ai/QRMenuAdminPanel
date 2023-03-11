@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.section {
+  padding: 10px 50px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper {
+  width: 48%;
+}/*# sourceMappingURL=requisities.module.css.map */

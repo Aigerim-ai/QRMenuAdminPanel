@@ -1,0 +1,19 @@
+.isComplete {
+  margin-top: 10px;
+  background-color: #F2DC8E;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.progress {
+  width: 20%;
+}
+
+.main {
+  background-color: #F2F6F5;
+  margin: 30px 0px;
+  border-radius: 10px;
+}/*# sourceMappingURL=profile.module.css.map */
