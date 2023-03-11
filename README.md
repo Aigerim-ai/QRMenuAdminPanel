@@ -1,3 +1,5 @@
+QR Menu Admin Panel
+
 The QR Menu Admin Panel is a web-based application for managing the menus and orders for a restaurant that uses QR codes to display its menu. The application allows restaurant owners and managers to create and edit menu items, view and manage orders
 
 Installation
